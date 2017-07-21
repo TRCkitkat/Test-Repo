@@ -1,0 +1,113 @@
+{
+  "_class": "group",
+  "do_objectID": "A2F0FAD8-8583-4907-BF2E-9D6527C96D88",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 716,
+    "width": 255,
+    "x": 861,
+    "y": 264
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "1E96802E-5F38-4241-891B-3D84F67772D9"
+    },
+    {
+      "class": "text",
+      "id": "02A8ABED-B82C-43CE-BEB6-0B389FE90F7C"
+    },
+    {
+      "class": "text",
+      "id": "3E938D45-BB86-41CF-B208-3674E1814D06"
+    },
+    {
+      "class": "text",
+      "id": "0701A4F3-289F-44EC-85DC-DBF360C7AE04"
+    },
+    {
+      "class": "text",
+      "id": "30D3F8BA-68BA-48F2-A6CD-DE412EAA2E07"
+    },
+    {
+      "class": "text",
+      "id": "E395B48C-6A52-4E96-A52A-603B0FC4512E"
+    },
+    {
+      "class": "text",
+      "id": "B912B3EF-421E-4D26-8ABC-F949D220184E"
+    },
+    {
+      "class": "text",
+      "id": "4891C45F-D3EB-43D3-BE6D-F662F789AA54"
+    },
+    {
+      "class": "text",
+      "id": "6949C703-27ED-428E-9FC1-3EFFF546E712"
+    },
+    {
+      "class": "text",
+      "id": "F4B1B264-5060-4D72-9E8A-7EF809CFEA00"
+    },
+    {
+      "class": "text",
+      "id": "3A1DA47C-4464-4B90-BC31-F43FCD00F385"
+    },
+    {
+      "class": "text",
+      "id": "F5C5C72C-E1FD-45EC-9B7D-A480E52CABA1"
+    },
+    {
+      "class": "text",
+      "id": "57021E78-BE5F-4652-9017-7A9F380E03BD"
+    },
+    {
+      "class": "text",
+      "id": "1D2F7165-8728-4830-AC62-8DC2AF8F814E"
+    },
+    {
+      "class": "text",
+      "id": "94577FEF-29EC-4EF5-9C6F-A1AADCAD336C"
+    },
+    {
+      "class": "text",
+      "id": "9935C512-8DFE-4C34-8480-5AD71F0E6F9A"
+    },
+    {
+      "class": "text",
+      "id": "4C6378A7-DF9E-4E04-A634-8C86E1334CC9"
+    },
+    {
+      "class": "text",
+      "id": "CD8F1439-1303-4353-9B67-A00621C340DF"
+    }
+  ],
+  "name": "Fonts - Success",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

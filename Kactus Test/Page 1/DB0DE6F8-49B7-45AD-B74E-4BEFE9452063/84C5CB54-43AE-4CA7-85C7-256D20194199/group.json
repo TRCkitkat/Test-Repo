@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "do_objectID": "84C5CB54-43AE-4CA7-85C7-256D20194199",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 238,
+    "width": 1020,
+    "x": 24,
+    "y": 24
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "text",
+      "id": "3BDC3E7B-5A80-4185-946F-3514366E0FF4"
+    },
+    {
+      "class": "group",
+      "id": "BC400DE5-E7AE-4B21-BC81-813467C602E2"
+    },
+    {
+      "class": "group",
+      "id": "8C35F4FF-E6F7-40E2-991F-E2FD77082081"
+    },
+    {
+      "class": "group",
+      "id": "D9124A18-23A1-43D9-8FC1-09EE88B9A947"
+    },
+    {
+      "class": "group",
+      "id": "07258077-D4D3-45E9-8D8F-2D23C5C50D23"
+    },
+    {
+      "class": "group",
+      "id": "CA6D4FA5-2A65-452F-84E6-E79242C68BAF"
+    },
+    {
+      "class": "group",
+      "id": "3D982425-0E31-49A1-B636-F597E3F37CE2"
+    }
+  ],
+  "name": "Shadows",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

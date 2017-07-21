@@ -1,0 +1,113 @@
+{
+  "_class": "group",
+  "do_objectID": "4CFBA2DE-F933-4733-8B81-09AAA5F6FF57",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 716,
+    "width": 255,
+    "x": 303,
+    "y": 264
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "3E148D8F-BBEE-4311-B0F8-C61EF21D0E22"
+    },
+    {
+      "class": "text",
+      "id": "488DC174-55AB-4781-9F95-C03605C22022"
+    },
+    {
+      "class": "text",
+      "id": "9D578E53-98A1-417F-8DCD-213BCB2B8FBD"
+    },
+    {
+      "class": "text",
+      "id": "A0DA7E58-5B49-4E99-9F15-5972B9BBD908"
+    },
+    {
+      "class": "text",
+      "id": "E04D84E3-7952-43A9-8ABC-9073F8C28D2D"
+    },
+    {
+      "class": "text",
+      "id": "03E230DF-4C6A-4C25-A600-17688173011F"
+    },
+    {
+      "class": "text",
+      "id": "9701C318-29C2-43DC-ACEA-0484B066421B"
+    },
+    {
+      "class": "text",
+      "id": "6BA3EBF4-49E3-471E-A8CF-2050646186CA"
+    },
+    {
+      "class": "text",
+      "id": "D0C7B954-3389-4891-A462-7D6AAA1C979F"
+    },
+    {
+      "class": "text",
+      "id": "413618EF-EA11-450F-8B8A-0EE390DE387C"
+    },
+    {
+      "class": "text",
+      "id": "5EB1DE5D-1BC3-44CC-A2D2-11DEFEA29669"
+    },
+    {
+      "class": "text",
+      "id": "39AEF793-3F30-4434-B1C9-1AD1AE167AD4"
+    },
+    {
+      "class": "text",
+      "id": "E7B83B70-81EB-4A41-A943-2084C53D8517"
+    },
+    {
+      "class": "text",
+      "id": "CAD12435-6B66-44D4-B36A-E520DE1AA4CE"
+    },
+    {
+      "class": "text",
+      "id": "78AE60D9-D8CA-463E-BD4A-37B062A701D8"
+    },
+    {
+      "class": "text",
+      "id": "9B6027F5-3EBF-4123-A79B-8003E3301FBA"
+    },
+    {
+      "class": "text",
+      "id": "106D0261-D1D7-4E1E-B62B-F1F52E6AB354"
+    },
+    {
+      "class": "text",
+      "id": "7DDF30C2-7B41-4D86-859B-7BF09D75CACB"
+    }
+  ],
+  "name": "Fonts - Warning",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

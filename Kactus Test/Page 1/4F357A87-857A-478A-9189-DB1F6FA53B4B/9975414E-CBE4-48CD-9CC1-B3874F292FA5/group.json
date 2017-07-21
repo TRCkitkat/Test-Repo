@@ -1,0 +1,113 @@
+{
+  "_class": "group",
+  "do_objectID": "9975414E-CBE4-48CD-9CC1-B3874F292FA5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 716,
+    "width": 255,
+    "x": 582,
+    "y": 264
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "F4FD7C35-7462-4A97-8DA2-B0CEB5687ADD"
+    },
+    {
+      "class": "text",
+      "id": "A6269772-EA13-4FC6-B3A0-83A921F1D1CB"
+    },
+    {
+      "class": "text",
+      "id": "B604F9C0-4A98-4ECD-973C-45CC4EF57A22"
+    },
+    {
+      "class": "text",
+      "id": "E2E222A2-7AC8-495A-806E-D90C5D7E8790"
+    },
+    {
+      "class": "text",
+      "id": "7DD34071-F7F3-408D-A285-67B48A51D0F8"
+    },
+    {
+      "class": "text",
+      "id": "9F9284C2-EB27-4338-AB18-48064614010F"
+    },
+    {
+      "class": "text",
+      "id": "05FC8732-B649-451C-A64F-DE74A7255851"
+    },
+    {
+      "class": "text",
+      "id": "F28587AE-4E58-416F-AC2E-429E7C7EB79E"
+    },
+    {
+      "class": "text",
+      "id": "EB294752-B258-4156-8BE5-3FB82BF95F6F"
+    },
+    {
+      "class": "text",
+      "id": "D5D91A89-59C6-4E2A-9AC3-FDA73643A758"
+    },
+    {
+      "class": "text",
+      "id": "7C6B5295-F20A-43A7-8024-A942F590870D"
+    },
+    {
+      "class": "text",
+      "id": "89FA9B43-58B3-46AB-A9B4-203C870CBEF0"
+    },
+    {
+      "class": "text",
+      "id": "6A8898CC-0D53-409D-8FE5-643A3BF9C059"
+    },
+    {
+      "class": "text",
+      "id": "896D03D0-B13A-4E23-95DF-4A5E004C26B6"
+    },
+    {
+      "class": "text",
+      "id": "CE0ECE9E-CA89-4F22-82AF-98C924E095AF"
+    },
+    {
+      "class": "text",
+      "id": "4EFF4263-C667-4C77-BFF1-95464963DDF1"
+    },
+    {
+      "class": "text",
+      "id": "04C2D654-03E4-4E51-A503-8E3ED09B0439"
+    },
+    {
+      "class": "text",
+      "id": "6189087E-898D-4126-82D9-89670EB518DD"
+    }
+  ],
+  "name": "Fonts - Danger",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
