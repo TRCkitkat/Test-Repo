@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "do_objectID": "6E8E883B-A0A7-4FD1-978B-8B2A7534DF31",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 16
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "81D3724D-5730-4466-BBAE-0B28B0E3500D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7656BB05-B9F7-4BD8-BD7A-269A61DFEDE6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8A10DEE9-55C1-4953-AB86-F2D6E1403332"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "20FA9359-ED08-4DAB-A180-79F9CEEB9BE1"
+    }
+  ],
+  "name": "Right Icon",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

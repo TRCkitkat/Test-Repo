@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "536CDC10-ACE3-440A-A9E4-C2DE0A6344B0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 68,
+    "width": 248,
+    "x": 0,
+    "y": 104
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "5D40A19E-1870-4353-B530-D7317AD34352"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "81BD1F58-2A13-4A29-A2FE-DC8457E0DDB3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6D954D15-5BE7-4650-BD88-EE6A3D4FB993"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5A3C103F-DBD2-4F36-B236-89E34879C1AB"
+    }
+  ],
+  "name": "Multi Select",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
