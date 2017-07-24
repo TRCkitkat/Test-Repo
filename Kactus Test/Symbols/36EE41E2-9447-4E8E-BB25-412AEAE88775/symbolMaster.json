@@ -1,0 +1,80 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 2,
+  "do_objectID": "36EE41E2-9447-4E8E-BB25-412AEAE88775",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 24,
+    "x": 27797,
+    "y": 575
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D00FFB28-29C0-48CB-AA59-FD1ACA310B0E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "95431F7B-E1B5-4B27-8F51-3D8635D48F14"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8D065A87-1A6E-47F0-B60C-FB67D6E247EC"
+    }
+  ],
+  "name": "Icon/mr/fontawesome/Edit",
+  "nameIsFixed": true,
+  "originalObjectID": "D2ABB5B1-E2D8-43FF-B0CF-C7725F3E1BB0",
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "8F7174DC-AE8A-4F62-BB84-75A9021B890C",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

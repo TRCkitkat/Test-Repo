@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "922B5712-B19B-4871-9660-3B3286932EE8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 248,
+    "width": 471,
+    "x": 80,
+    "y": 2260
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "A3163D4A-4F72-4CC6-A786-DD4BE420BF34"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6DD6EBF2-567C-4B62-ABFD-92BF54E63DD7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BF4F5FBF-4E5D-4669-B1C5-EA74499AD94B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "07D88823-456F-4360-9051-5E25258A8475"
+    },
+    {
+      "class": "text",
+      "id": "60FC6D39-BF77-4047-86DE-08F0CC9E54AA"
+    }
+  ],
+  "name": "Notification Bars",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

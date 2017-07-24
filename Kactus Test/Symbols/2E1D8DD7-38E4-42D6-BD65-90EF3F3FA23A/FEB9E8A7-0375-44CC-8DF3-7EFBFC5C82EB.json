@@ -1,0 +1,60 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "FEB9E8A7-0375-44CC-8DF3-7EFBFC5C82EB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 16,
+    "width": 16,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 1,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Icon",
+  "nameIsFixed": true,
+  "originalObjectID": "FEB9E8A7-0375-44CC-8DF3-7EFBFC5C82EB",
+  "overrides": {
+    "4FD480D6-F162-41F1-AEE3-A13B48CA997B": {
+      "symbolID": "40E7A6B6-B0E9-443A-8FBE-0C686169490C"
+    }
+  },
+  "resizingConstraint": 41,
+  "resizingType": 1,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "DDBFD4A4-C0F2-4CF5-AF6D-8FB45F9AC54C",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "DCD3C5B1-C0A9-4ACE-983F-4530375714E3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 184,
+    "x": 544,
+    "y": 368
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Button/Large - Left Icon",
+  "nameIsFixed": false,
+  "overrides": {
+    "00F14416-DF75-4756-9D36-6BB29858BC89": "LARGE",
+    "07FBC0F3-360F-4B20-858B-FB97B223866B": {
+      "symbolID": ""
+    },
+    "202B6534-2D06-4D46-913E-563257FF76CC": {
+      "BC4DCF08-70E3-41C0-BD21-364B404F601E": "Focused"
+    },
+    "3A1B5C9D-B3B1-4ECF-9906-CA61288E74EB": {
+      "023F30FA-A5B6-4104-8767-02072172E5DC": {
+        "symbolID": "6285526C-1511-4EBE-A3BF-9493BB7FEEC6"
+      }
+    },
+    "5B8D0142-5F18-4A6A-A075-6258C3F27171": {
+      "3A36016B-773D-4799-A9CE-EF5B2ACEB5CE": {
+        "symbolID": "D25AB969-C46E-44B7-A81F-B931386EB467"
+      },
+      "symbolID": "6E5120CE-A012-4DD5-91D7-A63BF59D1AED"
+    },
+    "74F5EDC9-208B-4FA0-970F-C49147C92E1B": {
+      "symbolID": ""
+    },
+    "7A4327C9-0AE4-4EE3-8F6A-357CAB58BF7F": {
+      "symbolID": ""
+    },
+    "8334441A-FF3D-461D-8DB9-4DA97B3CFECE": {
+      "symbolID": ""
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F7D39CF7-2B1A-4035-981B-5A072FD8A823",
+  "verticalSpacing": 0
+}
